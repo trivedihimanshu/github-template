@@ -1,5 +1,5 @@
 variables:
-    SolutionBaseName: '__SolutionBaseName__'
+    SolutionBaseName: 'new-fn'
     BuildPlatform: 'any cpu'
     BuildConfiguration: 'release'
 
